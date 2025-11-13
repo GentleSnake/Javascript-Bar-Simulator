@@ -9,3 +9,6 @@ open terminal
 do cd ~/Desktop
 
 do node bar_simulator.js
+
+
+I also stole the randomInteger function from the interweb. Sorry.
